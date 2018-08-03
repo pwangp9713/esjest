@@ -1,0 +1,6 @@
+﻿用springboot+elasticsearch+jest模拟一个新闻上传
+
+Article是新闻的信息 如标题，出处，标签等
+Content是新闻内容 新闻文章本体
+
+存到elasticsearch里方便检索
